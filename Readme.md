@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ekaterina Vakhatova](https://up.htmlacademy.ru/htmlcss/16/user/278739).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Смирнов] (https://htmlacademy.ru/profile/id71777).
 
 ---
 
