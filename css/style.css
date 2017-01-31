@@ -1,0 +1,85 @@
+body {
+	text-transform: uppercase;
+	line-height: 26px;
+	font-family: "PT Sans";
+}
+.main-menu {
+	font-size: 14px;
+	font-weight: bold;
+	color: 000000;
+}
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+h3 {
+	font-size: 21px;
+	font-weight: bold;
+}
+h4 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.white {
+	color: red;
+}
+p {
+	font-size: 14px;
+	color: 333333;
+	font-weight: normal;
+}
+.search {
+	font-size: 21px;
+	font-weight: bold;
+}
+form {
+	font-size: 14px;
+	font-weight: bold;
+}
+input {
+	font-size: 14px;
+	font-weight: bold;
+}
+.search-btn {
+	font-size: 21px;
+	font-weight: bold;
+	color: red;
+}
+.filter-btn {
+	font-size: 14px;
+	font-weight: normal;
+	color: red;
+}
+.btn-more {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 21px;
+	color: red;
+}
+.btn-book {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 21px;
+	color: red;
+}
+.search-info p {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 21px;
+	color: #333333;
+}
+.search-rating p {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 21px;
+	color: #333333;
+}
+}
+.filters {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 21px;
+}
+.footer-link {
+	font-size: 21px;
+}
